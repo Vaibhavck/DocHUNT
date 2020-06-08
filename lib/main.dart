@@ -134,6 +134,7 @@ class _HomeState extends State<Home> {
                             fontSize: 24.0,
                             fontWeight: FontWeight.bold,
                           ),
+                          
                         ),
                         Switch(
                           inactiveTrackColor: Colors.grey,
